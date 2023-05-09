@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrayanbot_dev=self.webpackChunkbrayanbot_dev||[]).push([[469],{7707:function(a){a.exports=JSON.parse('{"label":"Security","permalink":"/blog/tags/security","allTagsPath":"/blog/tags","count":1}')}}]);
